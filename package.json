@@ -5,6 +5,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.396.0"
   },
@@ -19,5 +20,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://USERNAME.github.io/word-riddle-game"
+  "homepage": "https://olgapentegova75-bit.github.io/word-riddle-game"
 }
