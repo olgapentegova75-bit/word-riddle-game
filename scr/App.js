@@ -9,3 +9,4 @@ export default function App() {
     </div>
   );
 }
+Move App.js to src/
